@@ -1,0 +1,11 @@
+C:\Desarrollo\Clientes\TFG\TFG\obj\Debug\TFG.Resources.resources
+C:\Desarrollo\Clientes\TFG\TFG\obj\Debug\TFG.frmConsultaFacturas.resources
+C:\Desarrollo\Clientes\TFG\TFG\obj\Debug\TFG.vbproj.GenerateResource.Cache
+C:\Mis Addons2\TFG\TFG.dll
+C:\Mis Addons2\TFG\TFG.pdb
+C:\Mis Addons2\TFG\TFG.xml
+C:\Desarrollo\Clientes\TFG\TFG\obj\Debug\TFG.dll
+C:\Desarrollo\Clientes\TFG\TFG\obj\Debug\TFG.xml
+C:\Desarrollo\Clientes\TFG\TFG\obj\Debug\TFG.pdb
+C:\Desarrollo\Clientes\TFG\TFG\obj\Debug\TFG.frmFaltasEDV.resources
+C:\Desarrollo\Clientes\TFG\TFG\obj\Debug\TFG.frmConsultaFaltas.resources
